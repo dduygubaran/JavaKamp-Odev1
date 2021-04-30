@@ -1,0 +1,3 @@
+1-) İlkel Veri Tipleri Byte, Short, Integer, Long, Float, Double, Char, Boolean
+2-) Referans Tipleri: Class, Interface, Array
+3-) Null Veri Tipi: Null
